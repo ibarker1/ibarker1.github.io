@@ -1,37 +1,9 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/ibarker1/ibarker1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A reluctant Millennial seeking to make a name for himself in the fields of Geography and voice over work. I'm slated to earn my M.A. of Geography from Binghamton University as of May 2018 and cannot wait to see what the rest of life has in store for me. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For years people have told me I have an excellent voice for radio, and as of late I have been taking the steps to capitalize on my unusual vocal timbre. I am currently in the process of honing this talent through dedicated training, and have even built a small (but growing) repertoire of public domain literature recordings through _www.librivox.org._ For a time I offered freelance voice work on Fiverr, but voluntarily withdrew to enhance my skills and more fully understand the craft I was undertaking. I intend to be back by the end of this year.
 
-### Markdown
+My focus in geography is GIS and Cartography; in particular, I aim to become a biogeographer. The usefulness of geography as a tool to understand species movements, ranges, and the change in these subjects over time is impossible to overstate. I've always been fascinated with the work conservationists undertake to try and preserve species moving rapidly towards the brink, and I have found my desire to join these kind and intrepid souls has only increased with time. As we move through a probable anthropogenic mass extinction event, I feel compelled to use my skills, knowledge and passion for the Earth to preserve our planet's unique floral and faunal bounty. After all--we're the only place in the universe we're certain harbors life, at least for now.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibarker1/ibarker1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I don't think it's a bad idea to keep it that way.
